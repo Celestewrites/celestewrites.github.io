@@ -2,10 +2,10 @@
 layout: home
 ---
 
-
-    ┌─────────────────────┐
-    │ Greetings, travelers.   │ 
-    │                         │     
-    │ Shall we explore my ?   │
-    └─────────────────────┘
-
+```
+┌─────────────────────┐
+│ Greetings, travelers.   │ 
+│                         │     
+│ Shall we explore my ?   │
+└─────────────────────┘
+```
