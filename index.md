@@ -5,6 +5,8 @@ layout: home
 ```
 o===========================o
  Welcome to my website, new
- traveler!              
+ traveler.      
+
+ Let's explore my realms.     
 o===========================o
 ```
