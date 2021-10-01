@@ -4,9 +4,8 @@ layout: home
 
 <pre>
 o===========================o
- Welcome to my website, new
- traveler.      
+ Greetings, travelers.    
 
- Let's explore my realms.     
+ Shall we explore my realms?     
 o===========================o
 </pre>
