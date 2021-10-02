@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p style="font-family:'Courier';font-stretch: condensed;margin: auto;">
+<p style="line-height: 80%;font-family:'Courier', monospace;font-stretch: condensed;margin: auto;">
 ╔═════════════════════╗ <br/>
 ║ &nbsp; Greetings, travelers. ║║   <br/>
                           ║ <br/> 
