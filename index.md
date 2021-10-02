@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<center>
+
 <tt style="font-family:'Ubuntu Mono'">
 ╔═════════════════════╗ <br/>
 ║ Greetings, new traveller.<br/>
@@ -10,4 +10,4 @@ layout: home
 Shalt thou explore realms? <br/>
 ╚═════════════════════╝
 </tt>
-</center>
+
