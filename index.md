@@ -2,10 +2,12 @@
 layout: home
 ---
 
+<p style="font-family:'Lucida Console', monospace">
 <center>
-╔═════════════════════╗
- Greetings, travelers.   <br/>
+╔═════════════════════╗ <br/>
+&nbsp; Greetings, travelers.   <br/>
                          <br/> 
- Shall we explore realms? 
+&nbsp; Shall we explore realms? <br/>
 ╚═════════════════════╝
 </center>
+</p>
