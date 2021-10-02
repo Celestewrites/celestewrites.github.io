@@ -3,11 +3,11 @@ layout: home
 ---
 
 
-<tt style="font-family:'Ubuntu Mono'">
-╔═════════════════════╗ <br/>
-║ Greetings, new traveller.<br/>
+<tt>
+o=========================o <br/>
+ Greetings, new traveller.  <br/>
                             <br/> 
-Shalt thou explore realms? <br/>
-╚═════════════════════╝
+ Shalt thou explore realms? <br/>
+o=========================o
 </tt>
 
