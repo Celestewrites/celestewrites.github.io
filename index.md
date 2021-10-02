@@ -2,10 +2,12 @@
 layout: home
 ---
 
-<tt style="line-height: 90%;">
+<center>
+<tt>
 ╔═════════════════════╗ <br/>
 &nbsp;Greetings, travelers.<br/>
                             <br/> 
 &nbsp;Shall we explore realms? <br/>
 ╚═════════════════════╝
 </tt>
+</center>
