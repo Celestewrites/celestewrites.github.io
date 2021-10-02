@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<tt>
+<tt style="line-height: 90%;">
 ╔═════════════════════╗ <br/>
 ║&nbsp;Greetings, travelers. ║║║   <br/>
 ║                          ║ <br/> 
