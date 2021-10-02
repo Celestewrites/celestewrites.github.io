@@ -3,7 +3,7 @@ layout: home
 ---
 
 <center>
-<tt>
+<tt style="font-family:'Ubuntu Mono'">
 ╔═════════════════════╗ <br/>
 Greetings, new traveller.<br/>
                             <br/> 
