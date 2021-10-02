@@ -5,9 +5,9 @@ layout: home
 <center>
 <tt>
 ╔═════════════════════╗ <br/>
-&nbsp;Greetings, travelers.<br/>
+Greetings, new traveler.<br/>
                             <br/> 
-&nbsp;Shall we explore realms? <br/>
+Shalt thou explore realms? <br/>
 ╚═════════════════════╝
 </tt>
 </center>
