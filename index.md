@@ -2,7 +2,7 @@
 layout: home
 ---
 
-
+<center>
 <tt>
 o===========================o
 | Greetings, new traveller. |
@@ -10,4 +10,5 @@ o===========================o
 | Shalt thou explore realms?|
 o===========================o
 </tt>
+</center>
 
