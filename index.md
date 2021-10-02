@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p style="font-family:'Courier New';margin: auto;font-size:x-small;">
+<p style="font-family:'Courier New';margin: auto;">
 ╔═════════════════════╗ <br/>
 ║ &nbsp; Greetings, travelers.   <br/>
                          <br/> 
